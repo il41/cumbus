@@ -11,6 +11,7 @@ body{
     text-align: center;
     margin: auto;
     background-color:red;
+    overflow: hidden;
 }
 
 .video-title{
