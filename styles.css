@@ -19,8 +19,11 @@ body{
     transform:scale(2,1);
     /* font-size:44px; */
 }
-iframe{
-    width:40vw;
+.hytPlayerWrap, hytPlayerWrapOuter, iframe{
+    /* width:40vw; */
+    /* margin:auto; */
+    width:100%;
+    max-width:650px;
 }
 
 p{
